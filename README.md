@@ -1,2 +1,3 @@
 # pycheck
-some Some auto check-in scripts
+一些自用签到脚本，完善中...
+
